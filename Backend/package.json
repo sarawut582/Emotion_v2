@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@prisma/client": "^6.5.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "nodemodule": "^0.3.0",
+    "nodemon": "^3.1.9",
+    "prisma": "^6.5.0",
+    "server": "^1.0.41"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
